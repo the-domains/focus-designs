@@ -1,11 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-05T06:20:04.298Z'
-dateModified: '2016-03-05T06:19:21.628Z'
+datePublished: '2016-03-05T06:22:05.207Z'
+dateModified: '2016-03-05T06:20:17.422Z'
 title: Preston Focus/Iris Cheeseplate
 sourcePath: _posts/2016-03-05-preston-focusiris-cheeseplate.md
 published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
